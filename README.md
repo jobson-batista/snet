@@ -1,2 +1,3 @@
-# snet
-Student Network is a social network for graduate students.
+# Student Network
+Student Network é uma rede social para estudantes de graduação da UFPB.
+
